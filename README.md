@@ -1,0 +1,1 @@
+# wails-vite-react-router-tailwind-shadcnui-ts
