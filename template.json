@@ -1,0 +1,7 @@
+{
+    "name": "Wails + Vite + React + ReactRouter +Tailwind + shadcn/ui + TypeScript",
+    "shortname": "wails-vite-react-router-tailwind-shadcnui-ts",
+    "author": "clamp",
+    "description": "A Wails template generated with Vite CLI that includes React, ReactRouter, Tailwind, shadcn/ui, and TypeScript",
+    "helpurl": "https://github.com/DJ-clamp/wails-vite-react-router-tailwind-shadcnui-ts"
+  }
